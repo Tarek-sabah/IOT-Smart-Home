@@ -1,0 +1,1 @@
+CONFIG/EXTI_Lcfg.o CONFIG/EXTI_Lcfg.o: ../CONFIG/EXTI_Lcfg.c
