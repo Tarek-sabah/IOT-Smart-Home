@@ -1,1 +1,0 @@
-CONFIG/LED_Lcfg.o CONFIG/LED_Lcfg.o: ../CONFIG/LED_Lcfg.c
